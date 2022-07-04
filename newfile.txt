@@ -1,2 +1,2 @@
 Hello from github command line
-Hello from github browser
+Hello from github browse
